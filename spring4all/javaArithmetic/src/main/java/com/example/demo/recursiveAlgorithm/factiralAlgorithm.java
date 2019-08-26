@@ -1,7 +1,7 @@
 package com.example.demo.recursiveAlgorithm;
 
 public class factiralAlgorithm {
-
+//用for循环改写
     public static int getFactorialFor(int n){
         int temp = 1;
         if(n >=0){
@@ -13,6 +13,7 @@ public class factiralAlgorithm {
         }
         return temp;
     }
+    //递归来改写
     public static int getFactorial(int n){
         if(n >= 0){
             if(n==0){
