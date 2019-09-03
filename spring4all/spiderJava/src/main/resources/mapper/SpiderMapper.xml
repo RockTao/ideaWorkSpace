@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.demo.mapper.SpiderMapper">
+    <select id="findById" resultType="com.example.demo.entity.parseHtml">
+        SELECT id,resource,title,url,category,create_time from parse_html WHERE id = #{id}
+    </select>
+
+
+    <insert id="insertForeach"  parameterType="java.util.List">
+        insert  into parse_html ( title,url,category,resource ) values
+        <foreach collection="list" item="item" index="index" separator=",">
+            (
+            #{item.title} , #{item.url},#{item.category},#{item.resource}
+            ）
+        </foreach>
+    </insert>
+    <insert id="insertOne">
+        insert  into parse_html ( title,url,category,resource ) values (#{title},#{url},#{category},#{resource})
+    </insert>
+    <update id="updateById" >
+        update  parse_html
+        <trim prefix="SET" suffixOverrides=",">
+            <if test="null != title and '' != title">
+                title=#{title},
+            </if>
+            <if test="null != category and '' != category">
+                category=#{category},
+            </if>
+            <if test="null != resource and '' != resource">
+                resource=#{resource},
+            </if>
+        </trim>
+        where id = #{id}
+    </update>
+    <delete id="deleteById">
+        delete FROM parse_html where id =#{id}
+    </delete>
+</mapper>
