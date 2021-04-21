@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/Cloud-stream-rabbitmq-provider8802/Cloud-stream-rabbitmq-provider8802.iml" filepath="$PROJECT_DIR$/cloudcloud2020/Cloud-stream-rabbitmq-provider8802/Cloud-stream-rabbitmq-provider8802.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/Cloud-stream-rabbitmq-provider8803/Cloud-stream-rabbitmq-provider8803.iml" filepath="$PROJECT_DIR$/cloudcloud2020/Cloud-stream-rabbitmq-provider8803/Cloud-stream-rabbitmq-provider8803.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAndSpringStudy/DesignModel/DesignModel.iml" filepath="$PROJECT_DIR$/JavaAndSpringStudy/DesignModel/DesignModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAndSpringStudy/JavaArithmetic/JavaArithmetic.iml" filepath="$PROJECT_DIR$/JavaAndSpringStudy/JavaArithmetic/JavaArithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAndSpringStudy/JavaBasic.iml" filepath="$PROJECT_DIR$/JavaAndSpringStudy/JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImoocStudy/JavaWebFlexTwo/JavaWebFlexTwo.iml" filepath="$PROJECT_DIR$/ImoocStudy/JavaWebFlexTwo/JavaWebFlexTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAndSpringStudy/SpiderJava/SpiderJava.iml" filepath="$PROJECT_DIR$/JavaAndSpringStudy/SpiderJava/SpiderJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAndSpringStudy/SpringAnnoation/SpringAnnoation.iml" filepath="$PROJECT_DIR$/JavaAndSpringStudy/SpringAnnoation/SpringAnnoation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAndSpringStudy/SpringJavaAudit/SpringJavaAudit.iml" filepath="$PROJECT_DIR$/JavaAndSpringStudy/SpringJavaAudit/SpringJavaAudit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloud-config-center-3344/cloud-config-center-3344.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloud-config-center-3344/cloud-config-center-3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloud-config-client-3355/cloud-config-client-3355.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloud-config-client-3355/cloud-config-client-3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloud-config-client-3366/cloud-config-client-3366.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloud-config-client-3366/cloud-config-client-3366.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloud-consumer-feign-hystrix-order80/cloud-consumer-feign-hystrix-order80.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloud-consumer-feign-hystrix-order80/cloud-consumer-feign-hystrix-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloud-consumer-feign-order80/cloud-consumer-feign-order80.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloud-consumer-feign-order80/cloud-consumer-feign-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloud-consumer-hystrix-dashboard9001/cloud-consumer-hystrix-dashboard9001.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloud-consumer-hystrix-dashboard9001/cloud-consumer-hystrix-dashboard9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloud-consumer-order-80/cloud-consumer-order-80.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloud-consumer-order-80/cloud-consumer-order-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloud-consumerconsul-order80/cloud-consumerconsul-order80.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloud-consumerconsul-order80/cloud-consumerconsul-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloud-consumerezk-order80/cloud-consumerezk-order80.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloud-consumerezk-order80/cloud-consumerezk-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloud-eureka-server7001/cloud-eureka-server7001.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloud-eureka-server7001/cloud-eureka-server7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloud-eureka-server7002/cloud-eureka-server7002.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloud-eureka-server7002/cloud-eureka-server7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloud-gateway-gateway9527/cloud-gateway-gateway9527.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloud-gateway-gateway9527/cloud-gateway-gateway9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloud-provider-hystrix-payment8001/cloud-provider-hystrix-payment8001.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloud-provider-hystrix-payment8001/cloud-provider-hystrix-payment8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloud-provider-payment8001/cloud-provider-payment8001.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloud-provider-payment8001/cloud-provider-payment8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloud-provider-payment8002/cloud-provider-payment8002.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloud-provider-payment8002/cloud-provider-payment8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloud-provider-payment8004/cloud-provider-payment8004.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloud-provider-payment8004/cloud-provider-payment8004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloud-providerconsul-payment8006/cloud-providerconsul-payment8006.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloud-providerconsul-payment8006/cloud-providerconsul-payment8006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/Cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml" filepath="$PROJECT_DIR$/cloudcloud2020/Cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloudalibaba-consumer-nacos-order83/cloudalibaba-consumer-nacos-order83.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloudalibaba-consumer-nacos-order83/cloudalibaba-consumer-nacos-order83.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloudalibaba-provider-payment9001/cloudalibaba-provider-payment9001.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloudalibaba-provider-payment9001/cloudalibaba-provider-payment9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloudalibaba-provider-payment9002/cloudalibaba-provider-payment9002.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloudalibaba-provider-payment9002/cloudalibaba-provider-payment9002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/cloudcloud2020.iml" filepath="$PROJECT_DIR$/cloudcloud2020/cloudcloud2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RabbitMqCustomer/demo (1).iml" filepath="$PROJECT_DIR$/RabbitMqCustomer/demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/RabbitMqProcuder/demo (2).iml" filepath="$PROJECT_DIR$/RabbitMqProcuder/demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImoocStudy/elasticSearchStudy.iml" filepath="$PROJECT_DIR$/ImoocStudy/elasticSearchStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudcloud2020/ji_huo_ma/ji-huo-ma.iml" filepath="$PROJECT_DIR$/cloudcloud2020/ji_huo_ma/ji-huo-ma.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JavaArithmetic" />
+        <module name="DesignModel" />
+        <module name="cloudalibaba-provider-payment9001" />
+        <module name="cloudalibaba-provider-payment9002" />
+        <module name="cloud-provider-payment8004" />
+        <module name="cloud-provider-payment8002" />
+        <module name="cloud-provider-payment8001" />
+        <module name="cloud-eureka-server7002" />
+        <module name="elasticSearchStudy" />
+        <module name="demo (1)" />
+        <module name="SpringJavaAudit" />
+        <module name="cloud-providerconsul-payment8006" />
+        <module name="Cloud-stream-rabbitmq-provider8802" />
+        <module name="cloud-consumer-hystrix-dashboard9001" />
+        <module name="cloud-consumer-feign-hystrix-order80" />
+        <module name="JavaBasic" />
+        <module name="cloud-consumerezk-order80" />
+        <module name="cloudalibaba-config-nacos-client3377" />
+        <module name="cloud-gateway-gateway9527" />
+        <module name="cloud-stream-rabbitmq-provider8801" />
+        <module name="cloudalibaba-consumer-nacos-order83" />
+        <module name="Cloud-stream-rabbitmq-provider8803" />
+        <module name="cloud-eureka-server7001" />
+        <module name="cloud-consumer-feign-order80" />
+        <module name="SpringAnnoation" />
+        <module name="cloud-config-client-3355" />
+        <module name="cloud-consumer-order-80" />
+        <module name="ji-huo-ma" />
+        <module name="SpiderJava" />
+        <module name="cloud-consumerconsul-order80" />
+        <module name="demo (2)" />
+        <module name="cloud-provider-hystrix-payment8001" />
+        <module name="cloud-config-center-3344" />
+        <module name="cloud-config-client-3366" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="9">
+      <module name="AtGuiGu_Audition" target="1.5" />
+      <module name="backend-cinema" target="1.8" />
+      <module name="backend-common" target="1.8" />
+      <module name="backend-film" target="1.8" />
+      <module name="backend-parent" target="1.8" />
+      <module name="backend-show" target="1.8" />
+      <module name="backend-show-hystrix" target="1.8" />
+      <module name="backend-user" target="1.8" />
+      <module name="backend-utils" target="1.8" />
+      <module name="backend_show_consumer" target="1.8" />
+      <module name="backend_show_provider" target="1.8" />
+      <module name="bankend-eureka-server" target="1.8" />
+      <module name="cloud-api-conmons" target="1.8" />
+      <module name="cloud-config-center-3344" target="1.8" />
+      <module name="cloud-config-client-3355" target="1.8" />
+      <module name="cloud-config-client-3366" target="1.8" />
+      <module name="cloud-consumer-feign-hystrix-order80" target="1.8" />
+      <module name="cloud-consumer-feign-order80" target="1.8" />
+      <module name="cloud-consumer-hystrix-dashboard9001" target="1.8" />
+      <module name="cloud-consumer-order-80" target="1.8" />
+      <module name="cloud-consumerconsul-order80" target="1.8" />
+      <module name="cloud-consumerezk-order80" target="1.8" />
+      <module name="cloud-eureka-server7001" target="1.8" />
+      <module name="cloud-eureka-server7002" target="1.8" />
+      <module name="cloud-gateway-gateway9527" target="1.8" />
+      <module name="cloud-provider-hystrix-payment8001" target="1.8" />
+      <module name="cloud-provider-payment8001" target="1.8" />
+      <module name="cloud-provider-payment8002" target="1.8" />
+      <module name="cloud-provider-payment8004" target="1.8" />
+      <module name="cloud-providerconsul-payment8006" target="1.8" />
+      <module name="cloud-stream-rabbitmq-provider8801" target="1.8" />
+      <module name="Cloud-stream-rabbitmq-provider8802" target="1.8" />
+      <module name="Cloud-stream-rabbitmq-provider8803" target="1.8" />
+      <module name="cloudalibaba-config-nacos-client3377" target="1.8" />
+      <module name="cloudalibaba-consumer-nacos-order83" target="1.8" />
+      <module name="cloudalibaba-provider-payment9001" target="1.8" />
+      <module name="cloudalibaba-provider-payment9002" target="1.8" />
+      <module name="cloudalibaba-sentinel-service8041" target="1.8" />
+      <module name="cloudcloud2020" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="demo (1)" target="1.8" />
+      <module name="demo (2)" target="1.8" />
+      <module name="DesignModel" target="1.8" />
+      <module name="elasticSearchStudy" target="1.8" />
+      <module name="Foundation" target="1.8" />
+      <module name="HandWritingTomcat" target="1.8" />
+      <module name="ImoocStudy" target="1.8" />
+      <module name="JavaAndSpringStudy" target="1.8" />
+      <module name="JavaArithmetic" target="1.8" />
+      <module name="JavaBasic" target="1.8" />
+      <module name="JavaFoundation" target="1.8" />
+      <module name="JavaWebFlux" target="1.5" />
+      <module name="ji-huo-ma" target="1.8" />
+      <module name="JsoupStudy" target="1.8" />
+      <module name="MultiThreadingAndJUC" target="1.8" />
+      <module name="mybatisPlus_1" target="8" />
+      <module name="mybatisPlusHeigh" target="8" />
+      <module name="rabbitmq" target="1.8" />
+      <module name="rabbitmq-advance" target="1.8" />
+      <module name="rabbitmq-spring" target="1.8" />
+      <module name="RabbitMqCustomer" target="1.8" />
+      <module name="rabbitmqhelloworld" target="1.8" />
+      <module name="RabbitMqProcuder" target="1.8" />
+      <module name="RibbitmqDemo" target="1.8" />
+      <module name="SpiderJava" target="1.8" />
+      <module name="SpringAnnoation" target="1.8" />
+      <module name="SpringJavaAudit" target="1.8" />
+      <module name="TwoHoursStudySpringBoot" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="DesignModel" options="-parameters" />
+      <module name="Foundation" options="-parameters" />
+      <module name="HandWritingTomcat" options="-parameters" />
+      <module name="JavaArithmetic" options="-parameters" />
+      <module name="JavaBasic" options="-parameters" />
+      <module name="JavaFoundation" options="-parameters" />
+      <module name="JsoupStudy" options="-parameters" />
+      <module name="MultiThreadingAndJUC" options="-parameters" />
+      <module name="RabbitMqCustomer" options="-parameters" />
+      <module name="RabbitMqProcuder" options="-parameters" />
+      <module name="RibbitmqDemo" options="-parameters" />
+      <module name="SpiderJava" options="-parameters" />
+      <module name="SpringAnnoation" options="-parameters" />
+      <module name="SpringJavaAudit" options="-parameters" />
+      <module name="backend-cinema" options="-parameters" />
+      <module name="backend-common" options="-parameters" />
+      <module name="backend-film" options="-parameters" />
+      <module name="backend-show-hystrix" options="-parameters" />
+      <module name="backend-user" options="-parameters" />
+      <module name="backend-utils" options="-parameters" />
+      <module name="backend_show_consumer" options="-parameters" />
+      <module name="backend_show_provider" options="-parameters" />
+      <module name="bankend-eureka-server" options="-parameters" />
+      <module name="demo (1)" options="-parameters" />
+      <module name="demo (2)" options="-parameters" />
+      <module name="elasticSearchStudy" options="-parameters" />
+      <module name="rabbitmq-advance" options="-parameters" />
+      <module name="rabbitmq-spring" options="-parameters" />
+      <module name="rabbitmqhelloworld" options="-parameters" />
+    </option>
+  </component>
+</project>

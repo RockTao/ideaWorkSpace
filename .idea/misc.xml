@@ -1,4 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/rabbitMqCustomer/pom.xml" />
+        <option value="$PROJECT_DIR$/rbbitmqDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring4all/designModel/pom.xml" />
+        <option value="$PROJECT_DIR$/spring4all/javaArithmetic/pom.xml" />
+        <option value="$PROJECT_DIR$/spring4all/spiderJava/pom.xml" />
+        <option value="$PROJECT_DIR$/spring4all/springAnnoation/pom.xml" />
+        <option value="$PROJECT_DIR$/spring4all/springJavaAudit/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitMqProcuder/pom.xml" />
+        <option value="$PROJECT_DIR$/spring4all/Foundation/pom.xml" />
+        <option value="$PROJECT_DIR$/spring4all/pom.xml" />
+        <option value="$PROJECT_DIR$/spring4all/MultiThreadingAndJUC/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaAndSpringStudy/JavaTomcat/pom.xml" />
+        <option value="$PROJECT_DIR$/cloudcloud2020/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/RbbitmqDemo/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
