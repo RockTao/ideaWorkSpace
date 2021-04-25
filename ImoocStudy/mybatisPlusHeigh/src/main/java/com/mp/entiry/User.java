@@ -14,7 +14,7 @@ public class User {
     private Integer age;//年龄
     private String email;//邮箱
     private Long managerId;//上级id
-    @TableField(fill = FieldFill.INSERT)
+    @TableField(fill = FieldFill.INSERT)  //自动填充功能
     private LocalDateTime createTime; // 创建时间
     @TableField(fill = FieldFill.UPDATE)
     private LocalDateTime updateTime; //修改时间

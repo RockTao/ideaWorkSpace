@@ -52,7 +52,7 @@ public class OptTest {
         int version = 1;
         User user = new User();
         user.setEmail("ly2@163.com");
-        user.setId(1304085448078962690L);
+        user.setId(1386329143582511106L);
         user.setVersion(version);
         int i = userMapper.updateById(user);
         System.out.println(" i  =" + i);

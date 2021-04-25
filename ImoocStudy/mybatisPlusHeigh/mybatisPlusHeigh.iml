@@ -69,5 +69,6 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.1.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:8.0.15" level="project" />
     <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.6.1" level="project" />
+    <orderEntry type="library" name="Maven: p6spy:p6spy:3.8.2" level="project" />
   </component>
 </module>
