@@ -1,7 +1,9 @@
 package com.mp;
 
 
+import com.baomidou.mybatisplus.core.MybatisConfiguration;
 import com.baomidou.mybatisplus.core.toolkit.Wrappers;
+import com.mp.config.MybatisPlusConfigure;
 import com.mp.dao.UserMapper;
 import com.mp.entiry.User;
 import lombok.extern.slf4j.Slf4j;
@@ -33,6 +35,7 @@ public class MyTest {
      */
     @Test
     public void select() {
+        MybatisPlusConfigure.myTableName.set("user_heigh_2019");
         List<User> userList = userMapper.selectList(null);
         userList.forEach(System.out::println);
     }
@@ -40,7 +43,7 @@ public class MyTest {
     @Test
     public void updateById() {
         User user = new User();
-        user.setAge(28);
+        user.setAge(39);
         user.setId(1088248166370832385L);
         int i = userMapper.updateById(user);
         System.out.println(" i  =" + i);
@@ -56,6 +59,11 @@ public class MyTest {
  *  2、在sql中加限定条件
  */
 
+    }
 
+    @Test
+    public void selectById() {
+        User user = userMapper.selectById(1087982257332887553L);
+        System.out.println(" 影响行数  =" + user);
     }
 }

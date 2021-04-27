@@ -22,10 +22,10 @@ public class FillTest {
     @Test
     public void insert() {
         User user = new User();
-        user.setName("李玉");
-        user.setAge(25);
-        user.setEmail("ly@babab.com");
-        user.setManagerId(1088248166370832385L);
+        user.setName("李国明");
+        user.setAge(27);
+        user.setEmail("lgm@babab.com");
+//        user.setManagerId(1088248166370832385L);
         int insert = userMapper.insert(user);
         System.out.println(" 影响行数  =" + insert);
 

@@ -20,3 +20,4 @@ mybatis-plus:
     db-config:
       logic-delete-value: 1
       logic-not-delete-value: 0
+#    sql-parser-cache: true #多租户啊，3.1.1之前版本需要设置，之后版本不需要设置

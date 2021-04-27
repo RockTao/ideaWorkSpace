@@ -11,15 +11,11 @@ import org.apache.ibatis.annotations.Select;
 import java.util.List;
 
 
-public interface UserMapper extends BaseMapper<User> {
+public interface UserMapper extends MyMapper<User> {
 
-//    @SqlParser(filter = true)//不增加租户信息   mp版本3.1之前的需要在全局配置中设置
+    @SqlParser(filter = true)//多租户信息不增加租户信息   mp版本3.1之前的需要在全局配置中设置
     @Select("select * from user_heigh ${ew.customSqlSegment}")
     List<User> mySelectList(@Param(Constants.WRAPPER) Wrapper<User> wrapper);
 
-    /**
-     * 自定义sql注入器
-     * @return
-     */
-//    int deleteAll();
+
 }

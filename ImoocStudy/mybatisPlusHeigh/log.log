@@ -1,0 +1,51 @@
+ Consume Time：7 ms 2021-04-25 23:29:53
+ Execute SQL：select * from user_heigh WHERE age > 25
+
+ Consume Time：14 ms 2021-04-27 21:37:35
+ Execute SQL：SELECT id, name, age, email, manager_id, create_time, update_time, version FROM user_heigh WHERE user_heigh.manager_id = 1088248166370832385 AND deleted = 0
+
+ Consume Time：8 ms 2021-04-27 21:38:27
+ Execute SQL：UPDATE user_heigh SET age = 39, update_time = '2021-04-27T21:38:26.930' WHERE user_heigh.manager_id = 1088248166370832385 AND id = 1088248166370832385 AND deleted = 0
+
+ Consume Time：6 ms 2021-04-27 21:39:22
+ Execute SQL：INSERT INTO user_heigh (id, name, age, email, create_time, manager_id) VALUES (1387038667431862274, '李国明', 27, 'lgm@babab.com', NULL, 1088248166370832385)
+
+ Consume Time：10 ms 2021-04-27 21:40:20
+ Execute SQL：SELECT id, name, age, email, manager_id, create_time, update_time, version FROM user_heigh WHERE deleted = 0
+
+ Consume Time：14 ms 2021-04-27 21:43:40
+ Execute SQL：SELECT id, name, age, email, manager_id, create_time, update_time, version FROM user_heigh WHERE user_heigh.manager_id = 1088248166370832385 AND deleted = 0
+
+ Consume Time：11 ms 2021-04-27 21:47:31
+ Execute SQL：SELECT id,name,age,email,manager_id,create_time,update_time,version FROM user_heigh WHERE id=1087982257332887553 AND deleted=0
+
+ Consume Time：13 ms 2021-04-27 21:50:24
+ Execute SQL：select * from user_heigh WHERE age > 25
+
+ Consume Time：14 ms 2021-04-27 22:04:30
+ Execute SQL：SELECT id,name,age,email,manager_id,create_time,update_time,version FROM user_heigh_2019 WHERE deleted=0
+
+ Consume Time：11 ms 2021-04-27 22:05:02
+ Execute SQL：SELECT id,name,age,email,manager_id,create_time,update_time,version FROM user_heigh_2019 WHERE deleted=0
+
+ Consume Time：18 ms 2021-04-27 22:47:24
+ Execute SQL：delete from user_heigh
+
+ Consume Time：6 ms 2021-04-27 22:50:33
+ Execute SQL：delete from user_heigh
+
+ Consume Time：6 ms 2021-04-27 22:53:28
+ Execute SQL：delete from user_heigh
+
+ Consume Time：4 ms 2021-04-27 23:03:44
+ Execute SQL：INSERT INTO user_heigh (id,name,age,email,manager_id,create_time,update_time,version) VALUES (1387059896247181313,'李新华',34,NULL,1088248166370832385,NULL,NULL,NULL) , (1387059896247181314,'杨红',29,NULL,1088248166370832385,NULL,NULL,NULL)
+
+ Consume Time：4 ms 2021-04-27 23:05:24
+ Execute SQL：INSERT INTO user_heigh (id,name,email,manager_id,create_time,update_time,version) VALUES (1387060317728608258,'李新华2',NULL,1088248166370832385,NULL,NULL,NULL) , (1387060317728608259,'杨红2',NULL,1088248166370832385,NULL,NULL,NULL)
+
+ Consume Time：3 ms 2021-04-27 23:11:52
+ Execute SQL：UPDATE user_heigh SET age=35,update_time='2021-04-27T23:11:52.629',deleted=1 WHERE id=1387059896247181313 AND deleted=0
+
+ Consume Time：4 ms 2021-04-27 23:17:23
+ Execute SQL：UPDATE user_heigh SET age=26,update_time='2021-04-27T23:17:23.591',deleted=1 WHERE id=1088248166370832385 AND deleted=0
+

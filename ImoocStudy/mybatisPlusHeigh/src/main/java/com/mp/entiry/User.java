@@ -11,6 +11,7 @@ import java.time.LocalDateTime;
 public class User {
     private Long id; //住建
     private String name;//姓名
+    @TableField(fill= FieldFill.UPDATE )
     private Integer age;//年龄
     private String email;//邮箱
     private Long managerId;//上级id

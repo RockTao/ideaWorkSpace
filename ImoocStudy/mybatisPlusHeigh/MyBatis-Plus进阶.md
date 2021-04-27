@@ -17,11 +17,17 @@
         @Version注意的数据类型    请看 官网数据 
         
 性能分析插件
+     pom需要下载插件p6spy
     1、性能分析实现
         在MybatisPlusConfigure中performanceInterceptor方法
     2、参数设置
+多租户sql解析器
+    1、数据隔离方案
+        单用户，单数据库
+        共享数据库，独立schema（多个用户）
+        共享数据库，共享scheam共享数据表
+    2、多租户实现
+        依赖分页插件
 
-sql注入器
-1、创建定义方法的类
-2、创建注入器
-3、在mapper中加入自定义的方法
+动态表明sql解析器
+    选装件
