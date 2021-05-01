@@ -5,8 +5,8 @@
     <artifactId>TwoHoursStudySpringBoot</artifactId>
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.gugui.springcloud</groupId>
-        <artifactId>cloudcloud2020</artifactId>
+        <groupId>com.imooc</groupId>
+        <artifactId>ImoocStudy</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 

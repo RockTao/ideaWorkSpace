@@ -1,0 +1,8 @@
+com\example\demo\bean\ApplicationConfig.class
+com\example\demo\DemoApplication.class
+com\example\demo\bean\mainTest.class
+com\example\demo\scan\ApplicationConfig.class
+com\example\demo\config\ApplicationConfig.class
+com\example\demo\bean\Student.class
+com\example\demo\bean\Teacher.class
+com\example\demo\config\mainTest.class

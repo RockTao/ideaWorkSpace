@@ -1,0 +1,21 @@
+server:
+  port: 8761
+eureka:
+  instance:
+    instamce: localhost
+    prefer-ip-address: true
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://localhost:${server.port}/eureka/
+
+logging:
+  config: classpath:logback.xml
+
+#spring:
+#  security:
+#    user:
+#      name:jiangzh
+#      password:jiangzh123
+#  roles:SUPERUSER

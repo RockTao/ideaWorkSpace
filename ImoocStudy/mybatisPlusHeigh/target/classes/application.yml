@@ -1,7 +1,9 @@
 spring:
   datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    url:  jdbc:mysql://localhost:3306/imooc-mp?useSSL=false&serverTimezone=GMT%2B8
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+    driver-class-name: com.p6spy.engine.spy.P6SpyDriver
+    #url:  jdbc:mysql://localhost:3306/imooc?useSSL=false&serverTimezone=GMT%2B8&characterEncoding=UTF-8
+    url:  jdbc:p6spy:mysql://localhost:3306/imooc?useSSL=false&serverTimezone=GMT%2B8&characterEncoding=UTF-8
     username: root
     password: 123456
 
@@ -18,3 +20,4 @@ mybatis-plus:
     db-config:
       logic-delete-value: 1
       logic-not-delete-value: 0
+#    sql-parser-cache: true #多租户啊，3.1.1之前版本需要设置，之后版本不需要设置
